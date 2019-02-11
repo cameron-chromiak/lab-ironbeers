@@ -1,0 +1,17 @@
+button{
+  display: block;
+}
+img{
+  max-height: 70vh;
+}
+.content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.index-container{
+  width: 100vw;
+  text-align: center;
+  overflow-x: hidden;
+}
